@@ -11,6 +11,12 @@
     <item>/README.md</item>
     <item>/package.json</item>
     <item>/.travis.yml</item>
+    <item>/zcl_fpm002_basic_02.clas.abap</item>
+    <item>/zcl_fpm002_basic_02.clas.xml</item>
+    <item>/src/z8627_demo2.prog.abap</item>
+    <item>/src/z8627_demo2.prog.xml</item>
+    <item>/src/z8627_demo3.prog.abap</item>
+    <item>/src/z8627_demo3.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
