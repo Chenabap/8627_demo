@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SICF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <URL>/sap/bc/webdynpro/sap/SRD60024/</URL>
+   <ICFSERVICE>
+    <ICF_NAME>SRD60024</ICF_NAME>
+    <ORIG_NAME>SRD60024</ORIG_NAME>
+    <ICFALTNME>ZFPM020_SPINFO_CHANGE</ICFALTNME>
+    <ICFALTNME_ORIG>ZFPM020_SPINFO_CHANGE</ICFALTNME_ORIG>
+   </ICFSERVICE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
